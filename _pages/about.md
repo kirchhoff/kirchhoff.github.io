@@ -7,19 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I am Wenda Tang (汤闻达). I earned my Ph.D. in Computer Science and Technology at Nanjing University, under the supervision of Prof. Wanchun Dou. My thesis is about resource scheduling in Cloud computing.
+Hello, I am Wenda Tang (汤闻达). I earned my Ph.D. in Computer Science and Technology at Nanjing University, under the supervision of Prof. Wanchun Dou [https://cs.nju.edu.cn/douwanchun/index.htm](). My thesis is about resource scheduling in Cloud computing.
 
 Publications
 ======
-1. **Wenda Tang**, Yutao Ke, Senbo Fu, Hongliang Jiang, Junjie Wu, Qian Peng, Feng Gao. "Demeter: QoS-aware CPU scheduling to reduce power consumption of multiple black-box workloads". In Proceedings of the 13th Symposium on Cloud Computing (SoCC). 2022.
-1. **Wenda Tang**, Senbo Fu, Yutao Ke, Qian Peng and Feng Gao. "Themis: Fair Memory Subsystem Resource Sharing with Differentiated QoS in Public Clouds". In 50th International Conference on Parallel Processing (ICPP). 2022.
+1. **Wenda Tang**, Yutao Ke, Senbo Fu, Hongliang Jiang, Junjie Wu, Qian Peng, Feng Gao. "Demeter: QoS-aware CPU scheduling to reduce power consumption of multiple black-box workloads". In Proceedings of the 13th Symposium on Cloud Computing (SoCC). 2022, Acceptance rate = 24%.
+1. **Wenda Tang**, Senbo Fu, Yutao Ke, Qian Peng and Feng Gao. "Themis: Fair Memory Subsystem Resource Sharing with Differentiated QoS in Public Clouds". In 50th International Conference on Parallel Processing (ICPP). 2022, Acceptance rate = 27%.
 1. **WendaTang**, Xuan Zhao, Wajid Rafique, Lianyong Qi, Wanchun Dou, Qiang Ni. "An offloading method using decentralized P2P-enabled mobile edge servers in edge computing". Journal of Systems Architecture, 2019, 94: 1-13.
 1. **Wenda Tang**, Chaobing Wu, Lianyong Qi, Xuyun Zhang, Xiaolong Xu, Wanchun Dou.
    "A WiFi-Aware Method for Mobile Data Offloading with Deadline Constraints". Concurrency and Computation: Practice and Experience, 2021, 33(7):1.
-1. **Wenda Tang**, Song Wang, Duanchao Li, Taigui Huang, Wanchun Dou*, Shui Yu.
-   **A Deadline-Aware Coflow Scheduling Approach for Big Data Applications[C]**. IEEE International Conference on Communications (ICC2018), 2018: 1-6.
+1. **Wenda Tang**, Song Wang, Duanchao Li, Taigui Huang, Wanchun Dou, Shui Yu.
+   "A Deadline-Aware Coflow Scheduling Approach for Big Data Applications". IEEE International Conference on Communications (ICC2018), 2018: 1-6.
 1. **Wenda Tang**, Xiang Liu, Wajid Rafique, Wanchun Dou. "A dynamic resource allocation method for load-balance scheduling over big data platforms". IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData), 2018: 524-531. (**Best Student Paper**)
-1. **Wenda Tang**, Shu Li, Wajid Rafique, Wanchun Dou*, Shui Yu.
+1. **Wenda Tang**, Shu Li, Wajid Rafique, Wanchun Dou, Shui Yu.
    "An Offloading Approach in Fog Computing Environment". IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI2018), 2018: 857-864.
 1. Wanchun Dou, **Wenda Tang**, Bowen Liu, Xiaolong Xu, Qiang Ni.
    "Blockchain-Based Mobility-Aware Offloading Mechanism for Fog Computing Services". Computer Communications, 2020, 164:261-273.
@@ -30,3 +30,4 @@ Publications
 1. Hongli Nie, Xutong Jiang, **Wenda Tang**, Song Zhang, Wanchun Dou.
    "Data Security over Wireless Transmission for Enterprise Multimedia Security with Fountain Codes". Multimedia Tools and Applications, 2020, 79(15-16): 10781-10803.
 1.  Jun Yang, Xiaolong Xu, **Wenda Tang**, Chunhua Hu, Wanchun Dou, Jinjun Chen. "A Task Scheduling Method for Energy-Performance Trade-Off in Clouds". IEEE International Conference on High Performance Computing and Communications(HPCC2016), 2016: 1029-1036.
+1. ... See More Papers in Google Scholar
