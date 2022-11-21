@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I am Wenda Tang (汤闻达). I earned my Ph.D. in Computer Science and Technology at Nanjing University, under the supervision of Prof. Wanchun Dou [https://cs.nju.edu.cn/douwanchun/index.htm](). My thesis is about resource scheduling in Cloud computing.
+Hello, I am Wenda Tang (汤闻达). I earned my Ph.D. in Computer Science and Technology at Nanjing University, under the supervision of Prof. [Wanchun Dou](https://cs.nju.edu.cn/douwanchun/index.htm). My thesis is about resource scheduling in Cloud computing.
 
 Publications
 ======
