@@ -17,7 +17,7 @@ Work experience
 ======
 * Summer 2021 - Now: Postdoc
   * Huawei Cloud Computing Technologies Co., Ltd. Xi'an, China
-  * Duties included: Researach
+  * Duties included: Research
 
 * Fall 2019 - Summer 2021: Software Engineer
   * Zhonghui Information Technology Service Center, Shanghai, China
