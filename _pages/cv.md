@@ -15,7 +15,11 @@ Education
 
 Work experience
 ======
-* Summer 2021 - Now: Postdoc
+* Summer 2023 - now
+  * China Telecom eSurfing Cloud, Beijing, China
+  * Duties included: Research
+
+* Summer 2021 - Summber 2023
   * Huawei Cloud Computing Technologies Co., Ltd. Xi'an, China
   * Duties included: Research
 
