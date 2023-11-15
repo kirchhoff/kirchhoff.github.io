@@ -11,6 +11,7 @@ Hello, I am Wenda Tang (汤闻达). I earned my Ph.D. in Computer Science and Te
 
 Publications
 ======
+1. **Wenda Tang**, Jiazhen Zhu, Tianxiang Ai, Guanghui Li, Bin Yu, Xin Yang, Wanchun Dou. "Thoth: Provisioning Over-Committed Memory Resource with Differentiated QoS in Public Clouds". In Proceedings of the 25th IEEE Internation on High Performance Computing and Communications (HPCC). 2023, Accepted.
 1. **Wenda Tang**, Yutao Ke, Senbo Fu, Hongliang Jiang, Junjie Wu, Qian Peng, Feng Gao. "Demeter: QoS-aware CPU scheduling to reduce power consumption of multiple black-box workloads". In Proceedings of the 13th Symposium on Cloud Computing (SoCC). 2022, Acceptance rate = 24%.
 1. **Wenda Tang**, Senbo Fu, Yutao Ke, Qian Peng and Feng Gao. "Themis: Fair Memory Subsystem Resource Sharing with Differentiated QoS in Public Clouds". In 50th International Conference on Parallel Processing (ICPP). 2022, Acceptance rate = 27%.
 1. **WendaTang**, Xuan Zhao, Wajid Rafique, Lianyong Qi, Wanchun Dou, Qiang Ni. "An offloading method using decentralized P2P-enabled mobile edge servers in edge computing". Journal of Systems Architecture, 2019, 94: 1-13.
