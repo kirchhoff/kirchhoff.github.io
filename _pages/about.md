@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I am Wenda Tang (汤闻达). I earned my Ph.D. in Computer Science and Technology at Nanjing University, under the supervision of Prof. [Wanchun Dou](https://cs.nju.edu.cn/douwanchun/index.htm). My thesis is about resource scheduling in Cloud computing. Now, I am a Senior Researcher at China Telecom eSurfing Cloud. My research interests lie in the area of disaggregated memory architecture, CXL, NVM, and QoS-aware resource scheduling. 
+Hello, I am Wenda Tang (汤闻达). I earned my Ph.D. in Computer Science and Technology at Nanjing University, under the supervision of Prof. [Wanchun Dou](https://cs.nju.edu.cn/douwanchun/index.htm). My thesis is about resource scheduling in Cloud computing. Now, I am a Principal Researcher at China Telecom Cloud Computing Research Institute. My research interests lie in the area of disaggregated memory architecture, CXL, NVM, and QoS-aware resource scheduling. 
 
 Publications
 ======
