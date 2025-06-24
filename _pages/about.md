@@ -11,9 +11,9 @@ Hello, I am Wenda Tang (汤闻达). I earned my Ph.D. in Computer Science and Te
 
 Publications
 ======
-1. **Wenda Tang**, [Yiduo Wang](https://yiduo.site/), Yanwen Wang, Jie Wu. "Leave No One Behind: Fair and Efficient Tiered Memory Management for Multi-Applications". To appear in Proceedings of the 54th International Conference on Parallel Processing (ICPP). 2025.
-1. [Yiduo Wang](https://yiduo.site/), **Wenda Tang**, Linghang Meng, Liang Li, Jie Wu. "Origami: Efficient ML-Driven Metadata Load Balancing for Distributed File Systems". To appear in Proceedings of the 54th International Conference on Parallel Processing (ICPP). 2025.
-1. **Wenda Tang**, Tianxiang Ai, Jie Wu. "Tiresias: Optimizing NUMA Performance with CXL Memory and Locality-Aware Process Scheduling". In Proceedings of the ACM Turing Award Celebration Conference-China 2024. 
+1. **Wenda Tang**, [Yiduo Wang](https://yiduo.site/), Yanwen Wang, [Jie Wu](https://cis.temple.edu/~wu/). "Leave No One Behind: Fair and Efficient Tiered Memory Management for Multi-Applications". To appear in Proceedings of the 54th International Conference on Parallel Processing (ICPP). 2025.
+1. [Yiduo Wang](https://yiduo.site/), **Wenda Tang**, Linghang Meng, Liang Li, [Jie Wu](https://cis.temple.edu/~wu/). "Origami: Efficient ML-Driven Metadata Load Balancing for Distributed File Systems". To appear in Proceedings of the 54th International Conference on Parallel Processing (ICPP). 2025.
+1. **Wenda Tang**, Tianxiang Ai, [Jie Wu](https://cis.temple.edu/~wu/). "Tiresias: Optimizing NUMA Performance with CXL Memory and Locality-Aware Process Scheduling". In Proceedings of the ACM Turing Award Celebration Conference-China 2024. 
 1. Yanqin Zheng, Wang Zhou, Changjian Wang, Jingya Zhang, **Wenda Tang**, Liang Qi, Tianxiang Ai, Guanghui Li, Bin Yu, Xin Yang. "PheScale: Leveraging Transformer Models for Proactive VM Auto-scaling". International Conference on Advanced Data Mining and Applications (ADMA2024). 2024.
 1. **Wenda Tang**, Ying Han, Tianxiang Ai, Guanghui Li, Bin Yu, Xin Yang. "Yggdrasil: Reducing Network I/O Tax with (CXL-Based) Distributed Shared Memory". In Proceedings of the 53rd International Conference on Parallel Processing (ICPP). 2024.
 1. Jiazhen Zhu, **Wenda Tang**, Xianglong Meng, Nan Gong, Tianxiang Ai, Guanghui Li, Bin Yu, Xin Yang. "PheCon: Fine-Grained VM Consolidation with Nimble Resource Defragmentation in Public Cloud Platforms". In Proceedings of the 53rd International Conference on Parallel Processing (ICPP), 2024.
