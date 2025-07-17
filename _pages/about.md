@@ -11,7 +11,7 @@ Hello, I am Wenda Tang (汤闻达). I earned my Ph.D. in Computer Science and Te
 
 Publications
 ======
-1. Yanwen Wang, **Wenda Tang**, [Jie Wu](https://cis.temple.edu/~wu/). **Nip it in the Bud: Unsupervised KPI Incipient Fault Detection via Dynamic Latent Feature Ensembling**. To appear in Proceedings of the 44nd International Symposium on Reliable Distributed Systems (SRDS). 2025.
+1. Yanwen Wang, **Wenda Tang**, [Jie Wu](https://cis.temple.edu/~wu/). **Nip it in the Bud: Unsupervised KPI Incipient Fault Detection via Dynamic Latent Feature Ensembling**. To appear in Proceedings of the 44th International Symposium on Reliable Distributed Systems (SRDS). 2025.
 1. **Wenda Tang**, [Yiduo Wang](https://yiduo.site/), Yanwen Wang, [Jie Wu](https://cis.temple.edu/~wu/). **Leave No One Behind: Fair and Efficient Tiered Memory Management for Multi-Applications**. To appear in Proceedings of the 54th International Conference on Parallel Processing (ICPP). 2025.
 1. [Yiduo Wang](https://yiduo.site/), **Wenda Tang**, Linghang Meng, Liang Li, [Jie Wu](https://cis.temple.edu/~wu/). **Origami: Efficient ML-Driven Metadata Load Balancing for Distributed File Systems**. To appear in Proceedings of the 54th International Conference on Parallel Processing (ICPP). 2025.
 1. **Wenda Tang**, Tianxiang Ai, [Jie Wu](https://cis.temple.edu/~wu/). **Tiresias: Optimizing NUMA Performance with CXL Memory and Locality-Aware Process Scheduling**. In Proceedings of the ACM Turing Award Celebration Conference-China 2024. 
