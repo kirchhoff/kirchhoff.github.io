@@ -11,6 +11,7 @@ Hello, I am Wenda Tang (汤闻达). I earned my Ph.D. in Computer Science and Te
 
 Publications
 ======
+1. **[SoCC'25]** **Wenda Tang**, [Yanan Yang](https://ynyang1.github.io/), [Jie Wu](https://cis.temple.edu/~wu/). Metis: A Non-Clairvoyant, Workflow-Aware OS Scheduler for Serverless Applications. To appear in Proceedings of the 16th ACM Symposium on Cloud Computing (**SoCC**). 2025.
 1. **[SRDS'25]** Yanwen Wang, **Wenda Tang**, [Jie Wu](https://cis.temple.edu/~wu/). Nip it in the Bud: Unsupervised KPI Incipient Fault Detection via Dynamic Latent Feature Ensembling. To appear in Proceedings of the 44th International Symposium on Reliable Distributed Systems (**SRDS**). 2025.
 1. **[ICPP'25]** **Wenda Tang**, [Yiduo Wang](https://yiduo.site/), Yanwen Wang, [Jie Wu](https://cis.temple.edu/~wu/). Leave No One Behind: Fair and Efficient Tiered Memory Management for Multi-Applications. To appear in Proceedings of the 54th International Conference on Parallel Processing (**ICPP**). 2025.
 1. **[ICPP'25]** [Yiduo Wang](https://yiduo.site/), **Wenda Tang**, Linghang Meng, Liang Li, [Jie Wu](https://cis.temple.edu/~wu/). Origami: Efficient ML-Driven Metadata Load Balancing for Distributed File Systems. To appear in Proceedings of the 54th International Conference on Parallel Processing (**ICPP**). 2025.
