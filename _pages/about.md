@@ -32,3 +32,9 @@ Publications
 1. **[UIC'18]** **Wenda Tang**, Shu Li, Wajid Rafique, Wanchun Dou, Shui Yu.
    An Offloading Approach in Fog Computing Environment. IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI2018), 2018: 857-864.
 1. ... See More Papers in Google Scholar
+
+
+Professional Services
+======
+1. PC Member of [ADMA2025](https://link.springer.com/book/10.1007/978-981-95-3453-1).
+1. Invited reviewer for JCST, IEEE IWQoS, ADMA.
