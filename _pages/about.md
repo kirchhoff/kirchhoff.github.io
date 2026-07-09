@@ -9,6 +9,10 @@ redirect_from:
 ---
 Hello, I am Wenda Tang (汤闻达). I earned my Ph.D. in Computer Science and Technology at Nanjing University, under the supervision of Prof. [Wanchun Dou](https://cs.nju.edu.cn/douwanchun/index.htm). My thesis is about resource scheduling in Cloud computing. Now, I am a Principal Researcher at China Telecom Cloud Computing Research Institute. My research interests lie in the area of disaggregated memory architecture, CXL, NVM, and QoS-aware resource scheduling. 
 
+Contact Info
+======
+Email: tangwd1[at]chinatelecom[dot]cn or wdtang[at]smail.nju.edu.cn
+
 Publications
 ======
 1. **[ICPP'26]** Guangqiang Luan, [Pu Pang](https://pangpu.github.io/), Quan Chen, Chen Chen, **Wenda Tang**, Deze Zeng, Li Li, Senbo Fu, Miaohe Lin, Xueqi Wu, Qian Peng, Minyi Guo. "Aethon: Performance-aware Memory Offloading for Co-running Applications in Public Clouds". To appear in the 55th International Conference on Parallel Processing (ICPP). 2026.
