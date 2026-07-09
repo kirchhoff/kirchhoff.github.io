@@ -11,7 +11,7 @@ Hello, I am Wenda Tang (汤闻达). I earned my Ph.D. in Computer Science and Te
 
 Contact Info
 ======
-Email: tangwd1[at]chinatelecom[dot]cn or wdtang[at]smail.nju.edu.cn
+Email: tangwd1[at]chinatelecom[dot]cn or wdtang[at]smail[dot]nju[dot]edu[dot]cn
 
 Publications
 ======
