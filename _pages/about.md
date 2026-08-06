@@ -15,10 +15,20 @@ Email: tangwd1[at]chinatelecom[dot]cn or wdtang[at]smail[dot]nju[dot]edu[dot]cn
 
 Publications
 ======
+
+### Journal Articles
+
+1. **[TACO'26]** Muliang Shou, Yufan Jiang, Tianlei Xiong, Chenggang Wu, **Wenda Tang**\*, Jie Wu, Zhengwei Qi\*. UVirtio: Enabling Ubiquitous Resource Sharing for RISC-V Industrial Edge Devices. In ACM Transactions on Architecture and Code Optimization (TACO). 2026. (\* Corresponding authors)
+1. **[TC'25]** [Yanan Yang](https://ynyang1.github.io/), **Wenda Tang**, Laiping Zhao, Keqiu Li, [Jie Wu](https://cis.temple.edu/~wu/). Improving the Serverless Function Cache Efficiency with Flame. In IEEE Transactions on Computers. 2025.
+1. **[CCPE'21]** **Wenda Tang**, Chaobing Wu, Lianyong Qi, Xuyun Zhang, Xiaolong Xu, Wanchun Dou.
+   A WiFi-Aware Method for Mobile Data Offloading with Deadline Constraints. Concurrency and Computation: Practice and Experience, 2021, 33(7):1.
+1. **[JSA'19]** **Wenda Tang**, Xuan Zhao, Wajid Rafique, Lianyong Qi, Wanchun Dou, Qiang Ni. An offloading method using decentralized P2P-enabled mobile edge servers in edge computing. Journal of Systems Architecture, 2019, 94: 1-13.
+
+### Conference Papers
+
 1. **[ICPP'26]** Guangqiang Luan, [Pu Pang](https://pangpu.github.io/), Quan Chen, Chen Chen, **Wenda Tang**, Deze Zeng, Li Li, Senbo Fu, Miaohe Lin, Xueqi Wu, Qian Peng, Minyi Guo. "Aethon: Performance-aware Memory Offloading for Co-running Applications in Public Clouds". To appear in the 55th International Conference on Parallel Processing (ICPP). 2026.
 1. **[ICDCS'26]** Jingyi Chen, Kaicheng Guo, Lingyun Yang, Yun Wang\*, **Wenda Tang**\*, Dongdong Ma, Pengwei Du, Qian Da, Zhengwei Qi. FractalGPU: Fair and Elastic GPU Sharing for General-Purpose Computing. To appear in the 46th IEEE International Conference on Distributed Computing Systems. 2026. (\* Corresponding authors)
 1. **[DAC'26]** **Wenda Tang**, Yanwen Wang, [Yiduo Wang](https://yiduo.site/), [Jie Wu](https://cis.temple.edu/~wu/). Cache Where It Counts: Towards Workload-Aware I/O Coordination for NUMA Storage Systems. To appear in the 63rd ACM/IEEE Design Automation Conference (DAC). 2026.
-1. **[TC'25]** [Yanan Yang](https://ynyang1.github.io/), **Wenda Tang**, Laiping Zhao, Keqiu Li, [Jie Wu](https://cis.temple.edu/~wu/). Improving the Serverless Function Cache Efficiency with Flame. In IEEE Transactions on Computers. 2025.
 1. **[SoCC'25]** **Wenda Tang**, [Yanan Yang](https://ynyang1.github.io/), [Jie Wu](https://cis.temple.edu/~wu/). Metis: A Non-Clairvoyant, Workflow-Aware OS Scheduler for Serverless Applications. In Proceedings of the 16th ACM Symposium on Cloud Computing (**SoCC**). 2025.
 1. **[SRDS'25]** Yanwen Wang, **Wenda Tang**, [Jie Wu](https://cis.temple.edu/~wu/). Nip it in the Bud: Unsupervised KPI Incipient Fault Detection via Dynamic Latent Feature Ensembling. To appear in Proceedings of the 44th International Symposium on Reliable Distributed Systems (**SRDS**). 2025.
 1. **[ICPP'25]** **Wenda Tang**, [Yiduo Wang](https://yiduo.site/), Yanwen Wang, [Jie Wu](https://cis.temple.edu/~wu/). Leave No One Behind: Fair and Efficient Tiered Memory Management for Multi-Applications. In Proceedings of the 54th International Conference on Parallel Processing (**ICPP**). 2025.
@@ -30,9 +40,6 @@ Publications
 1. **[HPCC'23]** **Wenda Tang**, Jiazhen Zhu, Tianxiang Ai, Guanghui Li, Bin Yu, Xin Yang, Wanchun Dou. Thoth: Provisioning Over-Committed Memory Resource with Differentiated QoS in Public Clouds. In Proceedings of the 25th IEEE Internation on High Performance Computing and Communications (**HPCC**). 2023, Accepted.
 1. **[SoCC'22]** **Wenda Tang**, Yutao Ke, Senbo Fu, Hongliang Jiang, Junjie Wu, Qian Peng, Feng Gao. Demeter: QoS-aware CPU scheduling to reduce power consumption of multiple black-box workloads. In Proceedings of the 13th Symposium on Cloud Computing (**SoCC**). 2022, Acceptance rate = 24%.
 1. **[ICPP'22]** **Wenda Tang**, Senbo Fu, Yutao Ke, Qian Peng and Feng Gao. Themis: Fair Memory Subsystem Resource Sharing with Differentiated QoS in Public Clouds. In 51st International Conference on Parallel Processing (**ICPP**). 2022, Acceptance rate = 27%.
-1. **[JSA'19]** **Wenda Tang**, Xuan Zhao, Wajid Rafique, Lianyong Qi, Wanchun Dou, Qiang Ni. An offloading method using decentralized P2P-enabled mobile edge servers in edge computing. Journal of Systems Architecture, 2019, 94: 1-13.
-1. **[CCPE'21]** **Wenda Tang**, Chaobing Wu, Lianyong Qi, Xuyun Zhang, Xiaolong Xu, Wanchun Dou.
-   A WiFi-Aware Method for Mobile Data Offloading with Deadline Constraints. Concurrency and Computation: Practice and Experience, 2021, 33(7):1.
 1. **[ICC'18]** **Wenda Tang**, Song Wang, Duanchao Li, Taigui Huang, Wanchun Dou, Shui Yu.
    A Deadline-Aware Coflow Scheduling Approach for Big Data Applications. IEEE International Conference on Communications (ICC2018), 2018: 1-6.
 1. **[CPSCom'18]** **Wenda Tang**, Xiang Liu, Wajid Rafique, Wanchun Dou. A dynamic resource allocation method for load-balance scheduling over big data platforms. IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData), 2018: 524-531. (**Best Student Paper**)
