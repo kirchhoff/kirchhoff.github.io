@@ -18,7 +18,7 @@ Publications
 
 ### Journal Articles
 
-1. **[TACO'26]** Muliang Shou, Yufan Jiang, Tianlei Xiong, Chenggang Wu, **Wenda Tang**, [Jie Wu](https://cis.temple.edu/~wu/)\*, Zhengwei Qi\*. UVirtio: Enabling Ubiquitous Resource Sharing for RISC-V Industrial Edge Devices. In ACM Transactions on Architecture and Code Optimization (TACO). 2026. (\* Corresponding authors)
+1. **[TACO'26]** Muliang Shou, Yufan Jiang, Tianlei Xiong, Chenggang Wu, **Wenda Tang**, [Jie Wu](https://cis.temple.edu/~wu/), Zhengwei Qi. UVirtio: Enabling Ubiquitous Resource Sharing for RISC-V Industrial Edge Devices. In ACM Transactions on Architecture and Code Optimization (TACO). 2026.
 1. **[TC'25]** [Yanan Yang](https://ynyang1.github.io/), **Wenda Tang**, Laiping Zhao, Keqiu Li, [Jie Wu](https://cis.temple.edu/~wu/). Improving the Serverless Function Cache Efficiency with Flame. In IEEE Transactions on Computers. 2025.
 1. **[CCPE'21]** **Wenda Tang**, Chaobing Wu, Lianyong Qi, Xuyun Zhang, Xiaolong Xu, Wanchun Dou.
    A WiFi-Aware Method for Mobile Data Offloading with Deadline Constraints. Concurrency and Computation: Practice and Experience, 2021, 33(7):1.
