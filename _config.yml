@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ph.D. Wenda Tang"
   avatar           : "wd3.jpeg"
-  bio              : "资深主任研究员, 中国电信云计算研究院"
+  bio              : "资深主任研究员,\n中国电信云计算研究院"
   location         : "Beijing/Xi'an, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=MetBj2MAAAAJ"
-  email            : "wdtang@smail.nju.edu.cn"
+  email            : "tangwd1@chinatelecom.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
