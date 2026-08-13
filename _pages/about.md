@@ -16,14 +16,6 @@ Email: tangwd1[at]chinatelecom[dot]cn or wdtang[at]smail[dot]nju[dot]edu[dot]cn
 Publications
 ======
 
-### Journal Articles
-
-1. **[TACO'26]** Muliang Shou, Yufan Jiang, Tianlei Xiong, Chenggang Wu, **Wenda Tang**, [Jie Wu](https://cis.temple.edu/~wu/), Zhengwei Qi. UVirtio: Enabling Ubiquitous Resource Sharing for RISC-V Industrial Edge Devices. In ACM Transactions on Architecture and Code Optimization (TACO). 2026.
-1. **[TC'25]** [Yanan Yang](https://ynyang1.github.io/), **Wenda Tang**, Laiping Zhao, Keqiu Li, [Jie Wu](https://cis.temple.edu/~wu/). Improving the Serverless Function Cache Efficiency with Flame. In IEEE Transactions on Computers. 2025.
-1. **[CCPE'21]** **Wenda Tang**, Chaobing Wu, Lianyong Qi, Xuyun Zhang, Xiaolong Xu, Wanchun Dou.
-   A WiFi-Aware Method for Mobile Data Offloading with Deadline Constraints. Concurrency and Computation: Practice and Experience, 2021, 33(7):1.
-1. **[JSA'19]** **Wenda Tang**, Xuan Zhao, Wajid Rafique, Lianyong Qi, Wanchun Dou, Qiang Ni. An offloading method using decentralized P2P-enabled mobile edge servers in edge computing. Journal of Systems Architecture, 2019, 94: 1-13.
-
 ### Conference Papers
 
 1. **[ICPP'26]** Guangqiang Luan, [Pu Pang](https://pangpu.github.io/), Quan Chen, Chen Chen, **Wenda Tang**, Deze Zeng, Li Li, Senbo Fu, Miaohe Lin, Xueqi Wu, Qian Peng, Minyi Guo. "Aethon: Performance-aware Memory Offloading for Co-running Applications in Public Clouds". To appear in the 55th International Conference on Parallel Processing (ICPP). 2026.
@@ -46,6 +38,14 @@ Publications
 1. **[UIC'18]** **Wenda Tang**, Shu Li, Wajid Rafique, Wanchun Dou, Shui Yu.
    An Offloading Approach in Fog Computing Environment. IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI2018), 2018: 857-864.
 1. ... See More Papers in Google Scholar
+
+### Journal Articles
+
+1. **[TACO'26]** Muliang Shou, Yufan Jiang, Tianlei Xiong, Chenggang Wu, **Wenda Tang**, [Jie Wu](https://cis.temple.edu/~wu/), Zhengwei Qi. UVirtio: Enabling Ubiquitous Resource Sharing for RISC-V Industrial Edge Devices. In ACM Transactions on Architecture and Code Optimization (TACO). 2026.
+1. **[TC'25]** [Yanan Yang](https://ynyang1.github.io/), **Wenda Tang**, Laiping Zhao, Keqiu Li, [Jie Wu](https://cis.temple.edu/~wu/). Improving the Serverless Function Cache Efficiency with Flame. In IEEE Transactions on Computers. 2025.
+1. **[CCPE'21]** **Wenda Tang**, Chaobing Wu, Lianyong Qi, Xuyun Zhang, Xiaolong Xu, Wanchun Dou.
+   A WiFi-Aware Method for Mobile Data Offloading with Deadline Constraints. Concurrency and Computation: Practice and Experience, 2021, 33(7):1.
+1. **[JSA'19]** **Wenda Tang**, Xuan Zhao, Wajid Rafique, Lianyong Qi, Wanchun Dou, Qiang Ni. An offloading method using decentralized P2P-enabled mobile edge servers in edge computing. Journal of Systems Architecture, 2019, 94: 1-13.
 
 
 Professional Services
