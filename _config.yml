@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Welcome to Wenda Tang's Homepage"
+browser_title            : "Wenda Tang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
