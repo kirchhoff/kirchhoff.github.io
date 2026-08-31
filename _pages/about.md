@@ -52,4 +52,4 @@ Publications
 Professional Services
 ======
 1. PC Member of [ADMA 2025](https://link.springer.com/book/10.1007/978-981-95-3453-1), [NPC 2026](https://npc-conference.github.io/organizing-committee/).
-1. Invited reviewer for IEEE TSC, IEEE TMC, IEEE CAL, JCST, Journal of Grid Computing (JDC), The Journal of Supercomputing (TJSC), IEEE IWQoS, ADMA.
+1. Invited reviewer for IEEE TSC, IEEE TMC, IEEE CAL, JCST, Journal of Grid Computing (JDC), The Journal of Supercomputing (TJSC), IEEE INFOCOM, IWQoS, ADMA.
