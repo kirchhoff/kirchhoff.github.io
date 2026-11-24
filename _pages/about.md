@@ -17,6 +17,9 @@ Publications
 ======
 
 ### Conference Papers
+1. **[DATE'27]** **Wenda Tang**, Wenda Tang, Yiduo Wang, Cunchen Hu, Yanwen Wang, [Jie Wu](https://cis.temple.edu/~wu/). FORSETI: Elastic Memory Bandwidth Isolation via Workload-Aware DRAM Channel Management. To appear in the 30th Design, Automation and Test in Europe Conference. 2027.
+1. **[DATE'27]** **Wenda Tang**, Pu Pang, [Jie Wu](https://cis.temple.edu/~wu/). CERES: Spending Power Where It Matters for Co-Located Workloads under Socket Power Caps. To appear in the 30th Design, Automation and Test in Europe Conference. 2027.
+1. **[DATE'27]** Yanwen Wang, **Wenda Tang**, [Jie Wu](https://cis.temple.edu/~wu/). ARIADNE: Counterfactual Root Cause Localization in Microservices via Anomaly Propagation Modeling. To appear in the 30th Design, Automation and Test in Europe Conference. 2027.
 1. **[ICSOC'26]** **Wenda Tang**\*, Yanan Yang, [Jie Wu](https://cis.temple.edu/~wu/). Kairos: Fine-Grained, QoS-Aware Service Management for Power-Constrained Multi-Tenant Clouds. To appear in the 24th International Conference on Service-Oriented Computing. 2026. (\* Corresponding author)
 1. **[NAS'26]** Yunfei Zhang, **Wenda Tang**\*, Jianjiang Li\*, [Jie Wu](https://cis.temple.edu/~wu/). AequaMem: Why Reclaim at Local Limits When You Can Borrow Idle Capacity from Other Tenants?. To appear in the 18th International Conference on Networking, Architecture, and Storage (NAS). 2026. (\* Corresponding authors) 🏆Best Paper Candidate
 1. **[ICPP'26]** Guangqiang Luan, [Pu Pang](https://pangpu.github.io/), Quan Chen, Chen Chen, **Wenda Tang**, Deze Zeng, Li Li, Senbo Fu, Miaohe Lin, Xueqi Wu, Qian Peng, Minyi Guo. Aethon: Performance-aware Memory Offloading for Co-running Applications in Public Clouds. To appear in the 55th International Conference on Parallel Processing (ICPP). 2026.
