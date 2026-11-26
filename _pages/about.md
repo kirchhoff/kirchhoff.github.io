@@ -55,6 +55,7 @@ Publications
 
 Professional Services
 ======
+- **2027:** Program Committee: [DASFAA](https://dasfaa2027.github.io/)
 - **2026:** Program Committee: [NPC](https://npc-conference.github.io/organizing-committee/); Reserve Reviewer: EuroSys 2027 (Fall cycle); Reviewer: IEEE TC, IEEE TSC, IEEE TMC, IEEE CAL, IEEE TKDE, IEEE INFOCOM, The Journal of Supercomputing, Journal of Grid Computing (JDC), ADMA.
 - **2025:** Program Committee: [ADMA](https://link.springer.com/book/10.1007/978-981-95-3453-1); Reviewer: IWQoS, ADMA.
 
